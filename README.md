@@ -9,3 +9,4 @@ Components:
 - [overwatch-web](https://github.com/leadhub-code/overwatch-web) (see [screenshots](https://github.com/leadhub-code/overwatch-web#screenshots))
 - [overwatch-basic-agents](https://github.com/leadhub-code/overwatch-basic-agents)
 - [overwatch-mongo-agent](https://github.com/leadhub-code/overwatch-mongo-agent)
+- [overwatch-demo](https://github.com/leadhub-code/overwatch-demo)
