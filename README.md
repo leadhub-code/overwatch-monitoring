@@ -10,3 +10,4 @@ Components:
 - [overwatch-basic-agents](https://github.com/leadhub-code/overwatch-basic-agents)
 - [overwatch-mongo-agent](https://github.com/leadhub-code/overwatch-mongo-agent)
 - [overwatch-demo](https://github.com/leadhub-code/overwatch-demo)
+- [overwatch-pagerduty](https://github.com/leadhub-code/overwatch-pagerduty)
